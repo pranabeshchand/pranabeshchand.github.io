@@ -1,14 +1,14 @@
 $(document).ready(function() {
-    document.getElementById('navBarMenu').innerHTML = loadPage('nav.html');
+    // document.getElementById('navBarMenu').innerHTML = loadPage('nav.html');
 
-    function loadPage(href) {
-        var xmlhttp = new XMLHttpRequest();
-        xmlhttp.open("GET", href, false);
-        xmlhttp.send();
-        return xmlhttp.responseText;
-    }
+    // function loadPage(href) {
+    //     var xmlhttp = new XMLHttpRequest();
+    //     xmlhttp.open("GET", href, false);
+    //     xmlhttp.send();
+    //     return xmlhttp.responseText;
+    // }
 
-    document.getElementById('socialDiv').innerHTML = loadPage('social.html');
+    // document.getElementById('socialDiv').innerHTML = loadPage('social.html');
 
     $('.text').on('click', function() {
         $('.menu .text span:first-child').toggleClass('bar-one');
