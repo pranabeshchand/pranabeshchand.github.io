@@ -1,0 +1,542 @@
+{"angular": [
+    {
+        "title":"What is Angular?",
+        "description": ""
+    },
+    {
+        "title": "Why Angular",
+        "description": ""
+    },
+    {
+        "title": "What is Decorator and explain about class Decorator.",
+        "description": ""
+    },
+    {
+        "title": "What is NPM?",
+        "description": ""
+    },
+    {
+        "title": "What is the out of 2 - '2'",
+        "description": "" 
+    },
+    {
+        "title": "What is the difference between undefined and Null?",
+        "description": ""
+    },
+    {
+        "title": "Difference between let & var",
+        "description": "" 
+    },
+    {
+        "title": "What is event bubbling?",
+        "description": ""
+    },
+    {
+        "title": "What is the use of package.json file?",
+        "description": ""
+
+    },
+    {
+        "title": "What is hosting?",
+        "description": ""
+    },
+    {
+        "title": "What is promise, call back?",
+        "description": ""
+
+    },
+    {
+        "title": "What is call back hell?",
+        "description": ""
+    },
+    {
+        "title": "What is self-invoking?",
+        "description": ""
+
+    },
+    {
+        "title": "What is closure?",
+        "description": ""
+    },
+    {
+        "title": "What is box model?",
+        "description": ""
+    },
+    {
+        "title": "Describe about section and article",
+        "description": ""
+    },
+    {
+        "title": "Can we put article inside footer tag?",
+        "description": ""
+    },
+    {
+        "title": "What is sudo element?",
+        "description": ""
+    },
+    {
+        "title": "Display inline and inline block",
+        "description": ""
+    },
+    {
+        "title": "What is “this” keyword in typescript?",
+        "description": ""
+    },
+    {
+        "title": "What is prototype?",
+        "description": ""
+    },
+    {
+        "title": "What is scope and type of scope?",
+        "description": ""
+    },
+    {
+        "title": "What is $ notation in javascript",
+        "description": "" 
+    },
+    {
+        "title": "How to create custom notation in javascript?",
+        "description": ""
+    },
+    {
+        "title": "How to add Dom inside Parent dom.",
+        "description": "" 
+    },
+    {
+        "title": "How to add image to img src tag in jQuery.",
+        "description": ""
+    },
+    {
+        "title": "What is constructor & why constructor.",
+        "description": ""  
+    },
+    {
+        "title": "what is transpiler?",
+        "description": ""
+    },
+    {
+        "title": "Is JavaScript support Object?",
+        "description": "" 
+    },
+    {
+        "title": "What is DOM and why we require DOM.",
+        "description": ""
+    },
+    {
+        "title": "Lifecycle method in Angular.",
+        "description": "" 
+    },
+    {
+        "title": "Difference between constructor() vs ngInit()",
+        "description": ""
+    },
+    {
+        "title": "What is module.export?",
+        "description": "" 
+    },
+    {
+        "title": "What is ngFor?",
+        "description": ""
+    },
+    {
+        "title": "Why node.js is asynchronous?",
+        "description": "" 
+    },
+    {
+        "title": "What is async & await",
+        "description": ""
+    },
+    {
+        "title": "What is REPL?",
+        "description": "" 
+    },
+    {
+        "title": "What is blocking quote",
+        "description": ""
+    },
+    {
+        "title": "Event looping",
+        "description": "" 
+    },
+    {
+        "title": "Event emitter & emitter function",
+        "description": ""
+    },
+    {
+        "title": "What is buffer?",
+        "description": "" 
+    },
+    {
+        "title": "What is shading?",
+        "description": ""
+    },
+    {
+        "title": "What is projection?",
+        "description": "" 
+    },
+    {
+        "title": "Symantix tags in HTML 5",
+        "description": ""
+    },
+    {
+        "title": "Difference between p tag vs spa",
+        "description": "" 
+    },
+    {
+        "title": "What is padding vs margin.",
+        "description": ""
+    },
+    {
+        "title": "What is box sizing?",
+        "description": "" 
+    },
+    {
+        "title": "What are the features in css3?",
+        "description": ""
+    },
+    {
+        "title": "What is call(), apply() and bind()",
+        "description": "" 
+    },
+    {
+        "title": "What is middleware in node.js.",
+        "description": ""
+    },
+    {
+        "title": "Syntax of middleware",
+        "description": "" 
+    },
+    {
+        "title": "How to restrict HTTP method in middleware.",
+        "description": ""
+    },
+    {
+        "title": "What are the global objects?",
+        "description": "" 
+    },
+    {
+        "title": "What is process.nexttick().",
+        "description": ""
+    },
+    {
+        "title": "What will happened when callback response delayed.",
+        "description": ""
+    },
+    {
+        "title": "Syntax of insertMany mongoDB function.",
+        "description": ""
+    },
+    {
+        "title": "What is bodyParser.",
+        "description": "" 
+    },
+    {
+        "title": "What is viewChild vs view children.",
+        "description": ""
+    },
+    {
+        "title": "Ng-content vs ng-template",
+        "description": "" 
+    },
+    {
+        "title": "How to pass value to child component",
+        "description": ""
+    },
+    {
+        "title": "Node.js support which design pattern.",
+        "description": ""
+
+    },
+    {
+        "title": "What is design pattern",
+        "description": ""
+    },
+    {
+        "title": "How to handle memory full or exceeded.",
+        "description": ""
+
+    },
+    {
+        "title": "What is stub.",
+        "description": ""
+    },
+    {
+        "title": "What is mockery.",
+        "description": ""
+
+    },
+    {
+        "title": "How transaction mongodb support.",
+        "description": ""
+    },
+    {
+        "title": "Does mongodb support virtual collection?",
+        "description": ""
+
+    },
+    {
+        "title": "Difference between $addtoset vs $push vs $set",
+        "description": ""
+    },
+    {
+        "title": "Difference between save and insert?",
+        "description": "" 
+    },
+    {
+        "title": "What is promise.call()",
+        "description": ""
+    },
+    {
+        "title": "What is singleton pattern?",
+        "description": "" 
+    },
+    {
+        "title": "What is promise channing?",
+        "description": ""
+    },
+    {
+        "title": "Type of Angular hooks.",
+        "description": "" 
+    },
+    {
+        "title": "What is material design in angular?",
+        "description": ""
+    },
+    {
+        "title": "What is agile model?",
+        "description": "" 
+    },
+    {
+        "title": "What is Microservice?",
+        "description": ""
+    },
+    {
+        "title": "What is spec.ts file in angular?",
+        "description": ""
+
+    },
+    {
+        "title": "What is test bed in angular?",
+        "description": ""
+    },
+    {
+        "title": "How mocha works in express.js.",
+        "description": ""
+
+    },
+    {
+        "title": "What are angular components?",
+        "description": ""
+    },
+    {
+        "title": "What is recursive function?",
+        "description": ""
+
+    },
+    {
+        "title": "How to set .env in node.js application.",
+        "description": ""
+    },
+    {
+        "title": "Angular one way binding vs two way binding.",
+        "description": ""
+
+    },
+    {
+        "title": "Difference between ng-hide vs ng-show vs ng-if",
+        "description": ""
+    },
+    {
+        "title": "What is transpiled?",
+        "description": ""
+
+    },
+    {
+        "title": "What is arrow function?",
+        "description": ""
+    },
+    {
+        "title": "Reduce() vs map()",
+        "description": ""
+
+    },
+    {
+        "title": "What is some()?",
+        "description": ""
+    },
+    {
+        "title": "Design pattern in javascript.",
+        "description": ""
+
+    },
+    {
+        "title": "Slice() vs splice() vs split()",
+        "description": ""
+    },
+    {
+        "title": "Types of datatype in javascript",
+        "description": ""
+
+    },
+    {
+        "title": "Pop() vs shift()",
+        "description": ""
+    },
+    {
+        "title": "What is template reference variable.",
+        "description": "" 
+    },
+    {
+        "title": "What is AOT?",
+        "description": ""
+    },
+    {
+        "title": "Difference between ES5 vs ES6  and ES7",
+        "description": "" 
+    },
+    {
+        "title": "Type of pop-up box.",
+        "description": ""
+    },
+    {
+        "title": "What is timer and its drawbacks.",
+        "description": "" 
+    },
+    {
+        "title": "What is strict equality.",
+        "description": ""
+    },
+    {
+        "title": "What is prompt box?",
+        "description": "" 
+    },
+    {
+        "title": "What is global variable?",
+        "description": ""
+    },
+    {
+        "title": "Undeclare vs undefined?",
+        "description": "" 
+    },
+    {
+        "title": "What is negative infinitive",
+        "description": ""
+    },
+    {
+        "title": "Is NAN a function?",
+        "description": ""
+
+    },
+    {
+        "title": "What is javascript?",
+        "description": ""
+    },
+    {
+        "title": "What is angular?",
+        "description": "" 
+    },
+    {
+        "title": "How to create a server in node.js",
+        "description": ""
+    },
+    {
+        "title": "What is directive? Types of directive.",
+        "description": "" 
+    },
+    {
+        "title": "Different way to write an object?",
+        "description": ""
+    },
+    {
+        "title": "What is shadow dom?",
+        "description": "" 
+    },
+    {
+        "title": "What is lazy loading in angular?",
+        "description": ""
+    },
+    {
+        "title": "What is anonymous function?",
+        "description": ""
+
+    },
+    {
+        "title": "What is global object?",
+        "description": ""
+    },
+    {
+        "title": "What is event driven?",
+        "description": ""
+
+    },
+    {
+        "title": "What is event emitter?",
+        "description": ""
+    },
+    {
+        "title": "What is event listener?",
+        "description": ""
+
+    },
+    {
+        "title": "Difference between event bubbling vs event capturing",
+        "description": ""
+    },
+    {
+        "title": "What is event delegation?",
+        "description": ""
+
+    },
+    {
+        "title": "What is event looping?",
+        "description": ""
+    },
+    {
+        "title": "What is observable?",
+        "description": ""
+
+    },
+    {
+        "title": "hostBinding vs hostListener",
+        "description": ""
+    },
+    {
+        "title": "@Input vs @Output",
+        "description": ""
+
+    },
+    {
+        "title": "What are the error codes of http.",
+        "description": ""
+    },
+    {
+        "title": "Difference between get vs post vs put vs patch vs delete",
+        "description": ""
+
+    },
+    {
+        "title": "What is session in javascript?",
+        "description": ""
+    },
+    {
+        "title": "What is cookies?",
+        "description": ""
+
+    },
+    {
+        "title": "What is tree seeking?",
+        "description": ""
+
+    },
+    {
+        "title": "What is deep copy and shallow copy",
+        "description": ""
+
+    },
+    {
+        "title": "Difference between template driven and reactive form in angular.",
+        "description": ""
+
+    }
+]
+}
